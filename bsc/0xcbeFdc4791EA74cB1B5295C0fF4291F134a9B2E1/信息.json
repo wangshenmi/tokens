@@ -1,0 +1,11 @@
+{
+ "name": "Greedydragon Token",
+ "website": "https://greedydragon.cc",
+ "description": "Greedydragon token is a community-driven token, a fair start DeFi project built on the Binance smart chain network.",
+ "explorer": "https://bscscan.com/token/0xcbeFdc4791EA74cB1B5295C0fF4291F134a9B2E1",
+ "type": "BEP20",
+ "symbol": "JPDG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcbeFdc4791EA74cB1B5295C0fF4291F134a9B2E1"
+}
